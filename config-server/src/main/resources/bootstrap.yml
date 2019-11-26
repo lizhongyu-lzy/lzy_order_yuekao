@@ -1,0 +1,9 @@
+server:
+  port: 7001
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/lizhongyu-lzy/lzy_sell.git
+          search-paths: config-repo

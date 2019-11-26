@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/configserver.iml" filepath="$PROJECT_DIR$/config-server/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka-server/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lzy_order_yuekao.iml" filepath="$PROJECT_DIR$/lzy_order_yuekao.iml" />
+    </modules>
+  </component>
+</project>
