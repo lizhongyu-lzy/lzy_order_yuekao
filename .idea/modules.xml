@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-api/commonapi.iml" filepath="$PROJECT_DIR$/common-api/commonapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/configserver.iml" filepath="$PROJECT_DIR$/config-server/configserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eurekaserver.iml" filepath="$PROJECT_DIR$/eureka-server/eurekaserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/lzy_order_yuekao.iml" filepath="$PROJECT_DIR$/lzy_order_yuekao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider_order/provider_order.iml" filepath="$PROJECT_DIR$/provider_order/provider_order.iml" />
     </modules>
   </component>
 </project>

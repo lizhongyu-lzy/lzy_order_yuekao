@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="commonapi" />
         <module name="configserver" />
         <module name="eurekaserver" />
+        <module name="gateway_service" />
+        <module name="provider_order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="commonapi" target="1.8" />
       <module name="configserver" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="gateway_service" target="1.8" />
       <module name="lzy_order_yuekao" target="1.8" />
+      <module name="provider_order" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

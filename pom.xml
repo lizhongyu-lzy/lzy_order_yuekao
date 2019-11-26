@@ -5,6 +5,8 @@
     <modules>
         <module>config-server</module>
         <module>eureka-server</module>
+        <module>common-api</module>
+        <module>provider_order</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -16,7 +18,6 @@
     <artifactId>lzy_order_yuekao</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-
     <properties>
         <java.version>1.8</java.version>
         <spring.cloud.version>Finchley.SR1</spring.cloud.version>
@@ -55,4 +56,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
